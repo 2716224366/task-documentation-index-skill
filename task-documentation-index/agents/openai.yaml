@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Documentation Index"
+  short_description: "Require indexed task docs before and after work"
+  default_prompt: "Use $task-documentation-index to check the task document index, document the work, and update the index."
